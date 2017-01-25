@@ -43,7 +43,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: The Javascript Company
-description: Wij kennen en kunnen Javascript van voor tot achter
+description: Wij kunnen Javascript van voor tot achter
 purpose:
   - type: contact
     url: 'mailto:chris@devotis.nl'
