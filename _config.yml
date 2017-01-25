@@ -1,0 +1,54 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The Javascript Company
+layout_spectrum: 0.46026230603456497
+typography_spectrum: 0.3546774860005826
+color:
+  brandStrength: 0.9221603656187654
+  lightness: 0.45590227958746254
+  saturation: 0.16855540196411312
+  rhythmicContrast: 0.05640580109320581
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: '<img src="https://c1.staticflickr.com/1/679/22632257321_8f88bb23d0_b.jpg">'
+    src: 'https://c1.staticflickr.com/1/679/22632257321_8f88bb23d0_b.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://flickr.com/'
+        name: Flickr
+        favicon: 'https://c1.staticflickr.com/favicon.ico'
+        domain: c1.staticflickr.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://c1.staticflickr.com/1/679/22632257321_8f88bb23d0_b.jpg'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: The Javascript Company
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:chris@devotis.nl'
+    label: Contact us
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a80ed0f-ed2b-4388-806c-9893c506567e.ico
