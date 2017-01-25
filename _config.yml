@@ -51,3 +51,8 @@ purpose:
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a80ed0f-ed2b-4388-806c-9893c506567e.ico
+author:
+  name: >-
+    The Javascript Company is house for developers built an supported by Devotis
+    BV
+  email: info@devotis.nl
