@@ -46,8 +46,8 @@ title: The Javascript Company
 description: Elke toepassing wordt uiteindelijk geschreven in Javascript
 purpose:
   - type: contact
-    url: 'mailto:chris@devotis.nl'
-    label: Contact us
+    url: 'mailto:chris+tjc@devotis.nl'
+    label: Neem contact op
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a80ed0f-ed2b-4388-806c-9893c506567e.ico
